@@ -34,3 +34,4 @@
 - [Reinforcement Learning](./Documents/rl-exercise.pdf)
 - [Type Hint](./Documents/type_hint.pdf)
 - [Tabular data](./Documents/tabula-py.pdf)
+- [Multi-task learning](./Documents/multi-task learning.pdf)
