@@ -10,14 +10,15 @@
 - [LLM Math Solver](./Documents/LLMs_Math_Solver_Instruction_Tuning.pdf)
 - [Milvus (vector database)](./Documents/milvus_introduction.pdf)
 - [QA System](./Documents/QA_Description.pdf)
-
-
+- [LangChain](./Documents/LangChain_Description.pdf
+)
 ### Image-Video generation
 - [Diffusion Models](./Documents/AIO_StableDiffusionBase.pdf)
 - [Image Inpainting](./Documents/[Description-Updated]-Image-Inpainting-DDPMs.pdf)
 - [Diffusion Colorization](./Documents/[Description]DiffusionColorization.pdf)
 - [VAE](./Documents/Description-VAE.pdf)
 - [Text to Video Generation](./Documents/Text_to_Video_Generation.pdf)
+- [Video Classification](./Documents/Description-Video_Classification_Project.pdf)
 
 ## Mamba
 - [Basic Mamba](./Documents/Mamba.pdf)
