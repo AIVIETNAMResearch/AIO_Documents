@@ -10,8 +10,9 @@
 - [LLM Math Solver](./Documents/LLMs_Math_Solver_Instruction_Tuning.pdf)
 - [Milvus (vector database)](./Documents/milvus_introduction.pdf)
 - [QA System](./Documents/QA_Description.pdf)
-- [LangChain](./Documents/LangChain_Description.pdf
-)
+- [LangChain](./Documents/LangChain_Description.pdf)
+- [Multi Agent](./Documents/Description%20-%20MultiAgentLLMs.pdf)
+
 ### Image-Video generation
 - [Diffusion Models](./Documents/AIO_StableDiffusionBase.pdf)
 - [Image Inpainting](./Documents/[Description-Updated]-Image-Inpainting-DDPMs.pdf)
