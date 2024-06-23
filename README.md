@@ -37,3 +37,10 @@
 - [Type Hint](./Documents/type_hint.pdf)
 - [Tabular data](./Documents/tabula-py.pdf)
 - [Multi-task learning](./Documents/multi-task%20learning.pdf)
+
+
+## Basic Coding
+- [Python Variable](./Documents/M01W01-Reading.pdf)
+- [Python Data structure](./Documents/M01W02-Data-Structure.pdf)
+- [Basic OOP](./Documents/Basic_OOP.pdf)
+- [Python OOP](./Documents/[Description]-OOP.pdf)
