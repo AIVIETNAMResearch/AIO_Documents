@@ -12,6 +12,7 @@
 - [QA System](./Documents/QA_Description.pdf)
 - [LangChain](./Documents/LangChain_Description.pdf)
 - [Multi Agent](./Documents/Description%20-%20MultiAgentLLMs.pdf)
+- [RAG Project](./Documents/AIO2024_Module01_Project_RAG_Description.pdf)
 
 ### Image-Video generation
 - [Diffusion Models](./Documents/AIO_StableDiffusionBase.pdf)
@@ -38,6 +39,7 @@
 - [Tabular data](./Documents/tabula-py.pdf)
 - [Multi-task learning](./Documents/multi-task%20learning.pdf)
 - [Streamlit](./Documents/[Description]-Streamlit.pdf)
+- [YoloV10 Project](./Documents/Yolov10.pdf)
 
 ## Basic Coding
 - [Python Variable](./Documents/M01W01-Reading.pdf)
