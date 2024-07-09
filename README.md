@@ -3,6 +3,7 @@
 ## Generative AI
 
 ### LLM
+
 - [Prompt Engineering](./Documents/Prompt_Engineering_Guide.pdf)
 - [RAG](./Documents/RAG.pdf)
 - [Multimodal LLM](./Documents/[Description]-Multimodal-Large-Language-Models.pdf)
@@ -15,6 +16,7 @@
 - [RAG Project](./Documents/AIO2024_Module01_Project_RAG_Description.pdf)
 
 ### Image-Video generation
+
 - [Diffusion Models](./Documents/AIO_StableDiffusionBase.pdf)
 - [Image Inpainting](./Documents/[Description-Updated]-Image-Inpainting-DDPMs.pdf)
 - [Diffusion Colorization](./Documents/[Description]DiffusionColorization.pdf)
@@ -23,10 +25,12 @@
 - [Video Classification](./Documents/Description-Video_Classification_Project.pdf)
 
 ## Mamba
+
 - [Basic Mamba](./Documents/Mamba.pdf)
 - [Mamba for Vision](./Documents/Mamba%20for%20Vision.pdf)
 
 ## Machine Learning + Others
+
 - [Decision Tree](./Documents/Decision_Tree_TrungTruc.pdf)
 - [Graph Neural Networks](./Documents/[Description]-GNN-TA.pdf)
 - [SQLite](./Documents/BasicSQLite.pdf)
@@ -40,9 +44,15 @@
 - [Multi-task learning](./Documents/multi-task%20learning.pdf)
 - [Streamlit](./Documents/[Description]-Streamlit.pdf)
 - [YoloV10 Project](./Documents/Yolov10.pdf)
+- [Numpy](./Documents/M02W01-Reading_Numpy.pdf)
 
 ## Basic Coding
+
 - [Python Variable](./Documents/M01W01-Reading.pdf)
 - [Python Data structure](./Documents/M01W02-Data-Structure.pdf)
 - [Basic OOP](./Documents/Basic_OOP.pdf)
 - [Python OOP](./Documents/[Description]-OOP.pdf)
+
+## Others
+
+- [Finanacial - Robotic Process Automation](./Documents/FIN_Operation_TP001_RoboticProcessAutomation_VN.pdf)
