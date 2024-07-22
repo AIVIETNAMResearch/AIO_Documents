@@ -52,6 +52,11 @@
 - [Python Data structure](./Documents/M01W02-Data-Structure.pdf)
 - [Basic OOP](./Documents/Basic_OOP.pdf)
 - [Python OOP](./Documents/[Description]-OOP.pdf)
+- [Numpy all-in-one](./Documents/Numpy_AIO2024.pdf)
+
+## Basic Math
+
+- [Probability](./Documents/[Description]-Probability.pdf)
 
 ## Others
 
